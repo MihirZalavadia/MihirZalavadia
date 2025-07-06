@@ -1,44 +1,71 @@
-# Hey there, I’m Mihir 🐺  
+# Hey there, I’m Mihir 🐺
+
 **Spreadsheets whisperer • Browser puppeteer • Code craftsman.**
 
 ---
 
-## 🚀 About Me
-- **3+ years** crafting automation tools at Accenture  
-- **Python ninja:** FastAPI · Playwright · Pandas · Selenium  
-- **Data-pipe architect:** Zephyr Excel Validator · ETL flows · Report pipelines  
-- **AI tinkerer:** hotlead-ai cold-email optimizer · Doodle-Food-Recognizer  
+## 🚀 Professional Summary
+
+Automation-focused Data Analyst with **3+ years** of experience at Accenture building Python-driven tools to streamline testing, reporting, and operational workflows. Proven track record of converting manual processes into scalable, reliable systems with measurable ROI. Delivered automation solutions like Jira/ALM integrations, FastAPI build fetcher, and Excel-based Zephyr validators. Comfortable navigating legacy codebases, unclear requirements, and tight timelines.
 
 ---
 
-## 🔭 Currently…
-- **WolfDeals** — real-time price tracker with FastAPI & Telegram alerts  
-- **SSA-Student-Updater** — Playwright script to auto-approve students on Gujarat govt portal  
-- **HFT-Learning-Journey** — building an order-book simulator & market-making bot  
+## 🛠️ Technical Skills
+
+* **Programming & Frameworks:** Python (Pandas · Regex · Selenium · Playwright · FastAPI · Flask), SQL
+* **BI & Reporting:** Power BI (PL-300 candidate) · Excel Automation & Macros
+* **APIs & Integrations:** Jira/ALM APIs · REST APIs · Postman
+* **Tools & Platforms:** Git · PyCharm · Docker · Linux
+* **Soft Skills:** Ownership mindset · Business-driven problem solving · Cross-team collaboration
 
 ---
 
-## 🌟 Highlights
-- 🚀 Processed **1,200+ student records in 120 mins** with SSA-Student-Updater  
-- 🕹️ Cut test-validation time by **80%** via Zephyr Excel Validator  
-- 🎨 Achieved **85% accuracy** on hand-drawn doodles for Doodle-Food-Recognizer  
-- ✉️ Automated **100+ cold-email campaigns** with hotlead-ai  
+## 💼 Professional Experience
+
+**Data Analyst | Accenture Solutions Pvt. Ltd. | Jul 2022 – Present**
+
+* Designed and deployed a FastAPI build-fetcher to replace a legacy C# tool, enabling real-time service lookup and build version control across test environments.
+* Built a Python utility for pre-validating Excel test case uploads to Zephyr, reducing upload rejections and QA dependency by **80%**.
+* Developed a Flask app to extract and update XML templates from DB values, accelerating client UAT cycles for trade execution simulations.
+* Automated DSR reporting and test-data synchronisation with ALM/Jira using Python scripts, improving release coverage visibility for **4+** cross-functional teams.
+* Led onboarding and handover efforts during team transitions, restructuring tool ownership without delivery delays.
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-000000?logo=playwright&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square)
+## 🚧 Key Projects
+
+**SSA-Student-Updater**
+Playwright-based script to auto-approve student records on the Gujarat SSA portal. **Processed 1,200+** records in 2 minutes with zero manual intervention.
+[GitHub →](https://github.com/MihirZalavadia/SSA-Student-Updater)
+
+**hotlead-ai**
+AI-enhanced cold-email optimiser that crafts and sequences personalised outreach campaigns. **Automated 100+** campaigns, boosting response rates by **30%+**.
+[GitHub →](https://github.com/MihirZalavadia/hotlead-ai)
+
+**Doodle-Based Food Recognition Model**
+Convolutional Neural Network built with Keras to classify hand-drawn food doodles. Integrated a Tkinter UI for real-time sketch testing, achieving **85%** accuracy on a custom dataset.
+[GitHub →](https://github.com/MihirZalavadia/Doodle-Food-Recognizer)
+
+**Build Fetcher Utility**
+Python + FastAPI backend that replaced a slow C# build-fetcher tool, providing one-click access to live build numbers across environments.
+[GitHub →](https://github.com/MihirZalavadia/HFT-Learning-Journey)
+
+**Zephyr Excel Validator**
+Python script validating XLSX test-case files before upload, flagging critical issues and sending automated alerts to leads—saving time and maintaining data integrity.
+[GitHub →](https://github.com/MihirZalavadia/Zephyr-Excel-Validator)
 
 ---
 
-## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/mihir-zalavadiya-9a00061bb/)  
-- 🐦 [Twitter](https://twitter.com/the_quite_wolf_)  
-- ✉️ mihir.k.zalavadiya@gmail.com  
+## 🎓 Education
 
-> “Building Tools That Work So You Don’t Have To...”  
+**B.Tech in Computer Science**
+L.D. College of Engineering, Ahmedabad | CGPA: 7.8/10 | 2018–2022
+
+---
+
+## 🌐 Connect with Me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mihir-zalavadiya-9a00061bb/)
+* 📫 [mihir.k.zalavadiya@gmail.com](mailto:mihir.k.zalavadiya@gmail.com)
+
+> *Actively seeking data automation and engineering roles in high-growth environments (remote/hybrid).*
