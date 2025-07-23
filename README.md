@@ -34,31 +34,35 @@ Automation-focused Data Analyst with **3+ years** of experience at Accenture bui
 
 ## 🚧 Key Projects
 
-**SSA-Student-Updater**
-Playwright-based script to auto-approve student records on the Gujarat SSA portal. **Processed 1,200+** records in 2 minutes with zero manual intervention.
+**UDISE-Automation**  
+Playwright-powered automation suite for the UDISE+ government portal, handling student progression updates, PEN fetching, untagged imports, and release requests. **Reduced 30+ hours of manual work** into minutes, with Excel-ready logs and full audit trail.  
+[GitHub →](https://github.com/MihirZalavadia/UDISE-Automation)
+
+**SSA-Student-Updater**  
+Playwright-based script to auto-approve student records on the Gujarat SSA portal. **Processed 1,200+** records in 2 minutes with zero manual intervention.  
 [GitHub →](https://github.com/MihirZalavadia/SSA-Student-Updater)
 
-**hotlead-ai**
-AI-enhanced cold-email optimiser that crafts and sequences personalised outreach campaigns. **Automated 100+** campaigns, boosting response rates by **30%+**.
+**hotlead-ai**  
+AI-enhanced cold-email optimiser that crafts and sequences personalised outreach campaigns. **Automated 100+** campaigns, boosting response rates by **30%+**.  
 [GitHub →](https://github.com/MihirZalavadia/hotlead-ai)
 
-**Doodle-Based Food Recognition Model**
-Convolutional Neural Network built with Keras to classify hand-drawn food doodles. Integrated a Tkinter UI for real-time sketch testing, achieving **85%** accuracy on a custom dataset.
+**Doodle-Based Food Recognition Model**  
+Convolutional Neural Network built with Keras to classify hand-drawn food doodles. Integrated a Tkinter UI for real-time sketch testing, achieving **85%** accuracy on a custom dataset.  
 [GitHub →](https://github.com/MihirZalavadia/Doodle-Food-Recognizer)
 
-**Build Fetcher Utility**
-Python + FastAPI backend that replaced a slow C# build-fetcher tool, providing one-click access to live build numbers across environments.
+**Build Fetcher Utility**  
+Python + FastAPI backend that replaced a slow C# build-fetcher tool, providing one-click access to live build numbers across environments.  
 [GitHub →](https://github.com/MihirZalavadia/HFT-Learning-Journey)
 
-**Zephyr Excel Validator**
-Python script validating XLSX test-case files before upload, flagging critical issues and sending automated alerts to leads—saving time and maintaining data integrity.
+**Zephyr Excel Validator**  
+Python script validating XLSX test-case files before upload, flagging critical issues and sending automated alerts to leads—saving time and maintaining data integrity.  
 [GitHub →](https://github.com/MihirZalavadia/Zephyr-Excel-Validator)
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Science**
+**B.Tech in Computer Science**  
 L.D. College of Engineering, Ahmedabad | CGPA: 7.8/10 | 2018–2022
 
 ---
